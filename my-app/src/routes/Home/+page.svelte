@@ -71,15 +71,19 @@
 <button class="cursor-pointer absolute text-white text-3xl mt-48 right-12 bottom-12">Learn more →</button>
   <img class="w-300 mx-auto md:mb-12" src="{workshop}" alt="workshop">
 </div>
-<div style="background-color: rgba(127, 95, 74, 1);" class="relative">
-  <img class="md:mt-30" src="{map}" alt="map">
-  <h3 style="background-color: rgba(127, 95, 74, 1);">Sanxia Map</h3>
-  <ol style="background-color: rgba(127, 95, 74, 1);" class="absolute md:right-45">
-    <li>Quingshui Zushi Temple</li>
-    <li>Sanxia Old Street</li>
-    <li>Indigo dyeing center</li>
-    <li>Sanxia history museum</li>
-    <li>Li Mei-shu Memorial Gallery</li>
+<div style="background-color: rgba(127, 95, 74, 1);" class="grid grid-cols-2 grid-rows-1 place-items-center">
+  <div class="place-items-center">
+     <h3 style="background-color: rgba(127, 95, 74, 1);" class=" text-white mt-8 text-xl">Sanxia Map</h3>
+  <img class=" w-100 md:mt-8 mb-15" src="{map}" alt="map">
+  </div>
+  <div class="text-white">
+  <ol style="background-color: rgba(127, 95, 74, 1);" class=" md:right-45 mt-8 text-xl">
+    <li class="mb-6">1.Quingshui Zushi Temple</li>
+    <li class="mb-6">2.Sanxia Old Street</li>
+    <li class="mb-6">3.Indigo dyeing center</li>
+    <li class="mb-6">4.Sanxia history museum</li>
+    <li class="mb-6">5.Li Mei-shu Memorial Gallery</li>
   </ol>
-  <p></p>
+  </div>
+  <p class="text-white">Follow on Instagram</p>
 </div>

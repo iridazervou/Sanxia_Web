@@ -57,7 +57,7 @@
 <div class="grid grid-rows-1 grid-cols-2 mt-15 mb-20 place-items-center">
   <div class="">
     <h2 class="text-3xl mt-8 place-self-center mb-8">Indigo dyeing workshops</h2>
-    <p class="ml-20 mr-20">This workshop is perfect for students interested in art,
+    <p class="ml-35 mr-20">This workshop is perfect for students interested in art,
      fashion, sustainability, or simply looking to try something new.
       No prior experience is necessary—just bring your enthusiasm and
        curiosity!</p>
