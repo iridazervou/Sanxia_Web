@@ -26,7 +26,7 @@
 </div>
 
 <div class="relative">
-   <img class="brightness-50 mt-6 radius-15" src="{title}" alt="indigo">
+   <img class="brightness-50 mt-6" src="{title}" alt="indigo">
  <div class="absolute top-55 md:ml-18">
   <h1 class="text-white text-7xl" >Sanxia’s indigo dyeing center</h1>
   <hr class="my-12 h-px bg-white border-0">
@@ -63,7 +63,20 @@
        curiosity!</p>
   </div>
   <div class="relative">
-    <button class="absolute text-white top-15 left-28 text-xl font-bold">Workshop availability →</button>
+    <a href="/Workshop" class="absolute text-white top-15 left-28 text-xl font-bold hover:opacity-70">Workshop availability →</a>
     <img class="w-100 place-self-center" src="{workshop}" alt="">
   </div>
 </div>
+
+<footer style="background-color: rgba(127, 95, 74, 1);" class="text-white py-4 px-3 mt-16">
+    <div class="container mx-auto flex flex-wrap items-center justify-between">
+        <div class="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
+            <p class="text-xs text-gray-200 md:text-sm">Copyright 2025 &copy; All Rights Reserved</p>
+        </div>
+        <div class="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
+            <ul class="list-reset flex justify-center flex-wrap text-xs md:text-sm gap-3">
+                <li><a href="https://www.instagram.com/phoenix_of_sanxia/" class="text-gray-200 hover:text-white">Follow on Instagram</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>

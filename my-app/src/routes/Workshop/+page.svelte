@@ -25,8 +25,8 @@
 
 <div class="relative">
     <img class="brightness-50 mt-6" src="{dye}" alt="">
-    <div class="absolute top-40 md:ml-18">
-    <h1 class="text-white text-3xl">Keeping tradition alive with the Phoenix of Sanxia Workshop</h1>
+    <div class="absolute top-40 md:ml-18 mr-100">
+    <h1 class="text-white text-5xl">Keeping tradition alive with the Phoenix of Sanxia Workshop</h1>
     <hr class="my-12 h-px bg-white border-0">
     <p class="text-white text-lg w-120 mt-8">A Workshop focusing on creativity,
          craftmanship and cultural preservation.</p>

@@ -68,7 +68,7 @@
  fabric.
 </p>
 <hr class="absolute h-px bg-white border-0"/>
-<a href="/Workshop" class="cursor-pointer absolute text-white text-3xl mt-48 right-15 bottom-12 hover:opacity-50">Learn more →</a>
+<button class="cursor-pointer absolute text-white text-3xl mt-48 right-12 bottom-12">Learn more →</button>
   <img class="w-300 mx-auto md:mb-12" src="{workshop}" alt="workshop">
 </div>
 <div style="background-color: rgba(127, 95, 74, 1);" class="grid grid-cols-2 grid-rows-1 place-items-center">
@@ -85,17 +85,5 @@
     <li class="mb-6">5.Li Mei-shu Memorial Gallery</li>
   </ol>
   </div>
+  <p class="text-white">Follow on Instagram</p>
 </div>
-
-<footer style="background-color: rgba(127, 95, 74, 1);" class="text-white py-4 px-3">
-    <div class="container mx-auto flex flex-wrap items-center justify-between">
-        <div class="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
-            <p class="text-xs text-gray-200 md:text-sm">Copyright 2025 &copy; All Rights Reserved</p>
-        </div>
-        <div class="w-full md:w-1/2 md:text-center md:mb-0 mb-8">
-            <ul class="list-reset flex justify-center flex-wrap text-xs md:text-sm gap-3">
-                <li><a href="https://www.instagram.com/phoenix_of_sanxia/" class="text-gray-200 hover:text-white">Follow on Instagram</a></li>
-            </ul>
-        </div>
-    </div>
-</footer>
